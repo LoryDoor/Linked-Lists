@@ -1,4 +1,4 @@
-# Linked-Lists
+# Liste Concatenate in Linguaggio C
 
 Esempio didattico su Liste concatenate in linguaggio C.
 
